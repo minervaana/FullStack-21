@@ -1,4 +1,4 @@
-# FullStack-21
+# FullStack 22
 
 ### Osien tehtävät hakemistoittain
 
@@ -17,3 +17,7 @@
     kurssitiedot
     unicafe
 
+[Osa 2](https://github.com/minervaana/FullStack-21/tree/main/osa2)
+
+    kurssitiedot
+    puhelinluettelo
